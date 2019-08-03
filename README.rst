@@ -1,7 +1,7 @@
 
 
 ###################
-Crie o seu próprio Jogo da Memória Genius com Arduino
+Crie o seu próprio Jogo da Memória Genius com Arduíno
 ###################
 
 Neste Vídeo vamos aprender a como prototipar o jogo da memória Genius da Estrela, que foi sensação das crianças nos anos 80 e 90.
